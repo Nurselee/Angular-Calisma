@@ -1,0 +1,28 @@
+{
+  "PersonList": [
+    {
+      "firstName": "ajsdlka",
+      "lastName": "lsadjfl",
+      "userName": "sdfjk",
+      "eMail": "fsjkefdk",
+      "id": 1
+    },
+    {
+      "firstName": "sdfskdlasdasdasd",
+      "lastName": "jdfjldkq",
+      "userName": "dkfjwlşq",
+      "eMail": "sdlkall",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
